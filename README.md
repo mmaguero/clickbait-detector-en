@@ -12,20 +12,20 @@ Up-to-date [Colab notebook](https://colab.research.google.com/drive/1zaLUrZWT2Yr
 
 | Run | F1*       | macro-F1 | Acc.     | macro-Acc. |
 |-----|----------|----------|----------|------------|
-|<td colspan=5>"Dataset completo" (XROBERTa_clickbait)</td>
+|<td colspan=5>"All Dataset" (XROBERTa_clickbait)</td>
 | 0   | **0.6846** | **0.7914** | 0.846    | **0.7966**   |
 | 1   | 0.6738   | 0.7889   | 0.8517     | 0.7802     |
 | 0(2)| 0.3844   | 0.1922   | 0.2379     | 0.5 |
 | 0(3)| 0.3844   | 0.1922   | 0.2379     | 0.5 |
 | 1(3)| 0.6743   | 0.7901   | **0.854**  | 0.7788 |
 | 2   | 0.6609   | 0.783    | 0.8516     | 0.7678 |
-|  <td colspan=5>"Sin outliers" (XROBERTa_clickbait_wo_outlier)|
+|  <td colspan=5>"Without outliers" (XROBERTa_clickbait_wo_outlier)|
 | 0   | 0.6664 | 0.7852 | 0.8509 | 0.7735 |
 | 1   | 0.663  | 0.783  | 0.8494 | 0.7714 |
 | 2   | **0.685**  | **0.796**  | **0.8564** | **0.7876** |
 | 3   | 0.6704 | 0.7877 | 0.8524 | 0.7763 |
 | 4   | 0.6653 | 0.7861 | 0.8543 | 0.7699 |
-|  <td colspan=5>"Con buen acuerdo entre anotadores" (XROBERTa_clickbait_agree)|
+|  <td colspan=5>"Annotations with strong agreement" (XROBERTa_clickbait_agree)|
 | 0   | 0.6677 | 0.7879 | 0.8559 | 0.7709 |
 | 1   | 0.7064 | 0.8107 | 0.8683 | 0.7987 |
 | 2^   | <u>**0.7112**</u> | <u>**0.8134**</u> | <u>**0.8693**</u> | <u>**0.803**</u>  |
