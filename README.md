@@ -37,11 +37,10 @@ Up-to-date [Colab notebook](https://colab.research.google.com/drive/1zaLUrZWT2Yr
   
   
 ## Error analysis
-  <object data="confusion_matrix.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="confusion_matrix.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="confusion_matrix.pdf">Download PDF</a>.</p>
-    </embed>
+<embed src="confusion_matrix.pdf" type="application/pdf">
+  <object data="confusion_matrix.pdf" type="application/pdf" width="100%"> 
 </object>
+
 
 ## Training
 [Here](https://wandb.ai/mmaguero/clickbait/table?workspace=user-mmaguero) you can see the detailed hyper-params and all results.
