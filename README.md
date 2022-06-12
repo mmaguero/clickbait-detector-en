@@ -37,9 +37,7 @@ Up-to-date [Colab notebook](https://colab.research.google.com/drive/1zaLUrZWT2Yr
   
   
 ## Error analysis
-<embed src="confusion_matrix.pdf" type="application/pdf">
-  <object data="confusion_matrix.pdf" type="application/pdf" width="100%"> 
-</object>
+  Confusion matrix [here](confusion_matrix.pdf).
 
 
 ## Training
