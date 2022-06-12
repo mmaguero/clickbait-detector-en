@@ -6,7 +6,7 @@ Clickbait detector for English tweets, trained on [Webis-17 dataset](https://web
 - [Here](https://ml-coding-test.s3.eu-west-1.amazonaws.com/webis_train.csv) and [here](https://ml-coding-test.s3.eu-west-1.amazonaws.com/webis_test.csv).
 
 ## Code
-Up-to-date [Colab notebook](https://colab.research.google.com/drive/1zaLUrZWT2Yr4y3u0bOv2p_sw_qtbHAFb?usp=sharing).
+Up-to-date [Colab notebook](https://colab.research.google.com/drive/1zaLUrZWT2Yr4y3u0bOv2p_sw_qtbHAFb?usp=sharing) or [here](tweets_clickbait.ipynb).
 
 ## Results
 
